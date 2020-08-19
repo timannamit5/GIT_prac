@@ -18,3 +18,5 @@ ans = _sum(arr,n)
   
 # display sum 
 print ('Sum of the array is ', ans) 
+
+#added comments
